@@ -1,2 +1,2 @@
 # lab_wiki
-Lab wiki
+See lab wiki [here](https://github.com/joechanlab/lab_wiki/wiki)
